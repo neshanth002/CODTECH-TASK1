@@ -16,5 +16,17 @@ Develop a basic IoT-based smart home system that allows users to control home ap
 
 ### Key Activities
 **Define Objectives:** Determine the goals and scope of the smart home system (e.g., controlling lighting, climate, security).
+
+
+
+
+
+
+
 **Identify Key Features:** List the features and functionalities needed, such as remote control, scheduling, automation rules, and integration with other smart devices.
+
+
+
+
+
 **Budget and Timeline:** Establish a budget and timeline for the project, including hardware, software, and development costs.
