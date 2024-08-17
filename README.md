@@ -1,9 +1,14 @@
 # CODTECH-TASK1#
 **Name:** Neshanth M
+
 **Company:** Codtech It Solutions
+
 **ID:** CT04DS6290
+
 **Domain:** IOT
+
 **Duration:** August To September 2024
+
 **Mentor:** Muzammil Ahmed
 
 
